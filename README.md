@@ -27,9 +27,9 @@ Copy code
 >java com.main.Main
 >
 Follow the prompts: Enter a number from 0 to 5 to view the corresponding habitat or type exit to quit.
-Contributing
 
+**Contributing**
 Contributions are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
 
-License
+**License**
 This project is licensed under the MIT License - see the LICENSE file for details.
