@@ -1,16 +1,16 @@
 ## Zoo Habitat Monitor
 The Zoo Habitat Monitor project is a Java program that assists zookeepers in monitoring animals in their habitats. It allows users to view descriptions of different animal habitats to ensure the animals are well-fed, clean, and happy.
 
-##Features:
+## Features:
 View habitat descriptions: Users can view the habitats of six different animals: camel, lion, deer, goose, bat, and rabbit.
 Simple command-line interface: Users can interact with the program through the terminal by entering habitat numbers.
-Technologies Used:
+** Technologies Used: **
 Java programming language
-How to Use:
+** How to Use: **
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/zoo-habitat-monitor.git
+> git clone https://github.com/yourusername/zoo-habitat-monitor.git
 Navigate to the project directory:
 bash
 Copy code
