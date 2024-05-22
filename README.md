@@ -1,4 +1,4 @@
-##Zoo Habitat Monitor
+## Zoo Habitat Monitor
 The Zoo Habitat Monitor project is a Java program that assists zookeepers in monitoring animals in their habitats. It allows users to view descriptions of different animal habitats to ensure the animals are well-fed, clean, and happy.
 
 ##Features:
